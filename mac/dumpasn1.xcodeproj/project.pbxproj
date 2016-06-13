@@ -44,7 +44,6 @@
 			children = (
 				2D5BF6E21D0F448F006D9441 /* README.rst */,
 				2D5BF6DF1D0F4473006D9441 /* src */,
-				2D5BF6D71D0F4455006D9441 /* dumpasn1 */,
 				2D5BF6D61D0F4455006D9441 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,13 +54,6 @@
 				2D5BF6D51D0F4455006D9441 /* dumpasn1 */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		2D5BF6D71D0F4455006D9441 /* dumpasn1 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = dumpasn1;
 			sourceTree = "<group>";
 		};
 		2D5BF6DF1D0F4473006D9441 /* src */ = {
